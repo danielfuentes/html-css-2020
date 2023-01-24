@@ -14,3 +14,14 @@ Este constituye un código desarrollado con HTML + CSS, con la intención que el
 <br>
 <a href= "https://go.hotmart.com/I61223770Q" target="_blank" >Información del curso<a/>
 <hr>
+<br>
+<h2>Tecnologías que van a conocer durante su cursada</h2>
+<ul>
+  <li>HTML-5</li>
+  <li>CSS-3</li>
+  <li>JavaScript</li>
+  <li>Node.JS</li>
+  <li>MySQL</li>
+  <li>React</li>
+</ul>
+
