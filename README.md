@@ -7,21 +7,31 @@ Este constituye un código desarrollado con HTML + CSS, con la intención que el
 
 <br>
 <hr>
-<br>
-<h1>Curso de Introducción al desarrollo web (HTML5 - CSS3)</h1>
-<br>
-<img  src='https://cedavilu.com/wp-content/uploads/2021/11/banner-hotmart-opcional.png' alt='Curso de Introducción al Desarrollo Web (HTML5 - CSS3'>
-<br>
-<a href= "https://go.hotmart.com/I61223770Q" target="_blank" >Información del curso<a/>
-<hr>
-<br>
-<h2>Tecnologías que van a conocer durante su cursada</h2>
-<ul>
-  <li>HTML-5</li>
-  <li>CSS-3</li>
-  <li>JavaScript</li>
-  <li>Node.JS</li>
-  <li>MySQL</li>
-  <li>React</li>
-</ul>
+<h5>Espero les resulte de utilidad</h5>
+
+<h2 style="text-align:center">Si quieres ir desde 0 a 100 en el <strong>Desarrollo Web FullStack</strong> - (Front-End y Back-End): Aquí te dejo una ruta que te prepare:</h2>
+<table>
+  <tr>
+    <td>
+      <a href="https://cedavilu.com/curso-desarrollo-web-detalle.html" target="_blank"> <img src="https://cedavilu.com/assets/img/cursos/cursos-1.png" > </a>      
+    </td>
+    <td>
+       <a href="https://cedavilu.com/curso-javascript-detalle.html" target="_blank"><img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-2.png" ></a>      
+    </td>
+    <td>
+      <a href= "https://cedavilu.com/curso-javascript-avanzado-detalle.html" target="_blank"><img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-3.png" ></a>
+    </td>
+    <td>
+    <a href="https://cedavilu.com/curso-nodejs-detalle.html" target="_blank"> <img style="width:25" src="https://cedavilu.com/assets/img/cursos/cursos-4.png" ></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>  
+    <td>
+       <a href= "https://cedavilu.com/" target="_blank"> <img style="width: 100" src="https://adanielf.files.wordpress.com/2020/04/frase-daniel-fuentes.jpg"></a>
+    </td> 
+  </tr>
+</table>
 
